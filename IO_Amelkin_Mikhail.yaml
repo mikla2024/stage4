@@ -1,19 +1,19 @@
 - content: shopping list
   created_date: 13 Jan
   issue_date: 20 Jan
-  note_id: 31af42e0-1e2f-44ca-82f2-c4a9db69592f
+  note_id: fbd0298e-40a7-4bf0-9a19-67efaa72baed
   status: in progress
   titles:
   - milk
   - bread
   - sugar
-  username: mikla
+  username: amikla
 - content: to do list
   created_date: 13 Jan
   issue_date: 20 Jan
-  note_id: 25614c85-ae42-488d-85c9-6460b872c1f9
+  note_id: d1fa0cc3-bad9-46b8-bb2c-a0f83a7f6f66
   status: in progress
   titles:
   - learn math
   - home task
-  username: mikla
+  username: miklka

@@ -10,7 +10,7 @@ def load_from_file(filename):
 list_notes = load_from_file('IO_Amelkin_Mikhail.yaml')
 
 if list_notes is not None:
-    print(list_notes)
+    print(type(list_notes), list_notes)
 else:
     print('File is empty. No data found')
 

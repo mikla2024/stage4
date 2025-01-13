@@ -9,7 +9,7 @@ def save_to_file(my_notes,filename):
 
 
 note1 = {
-    'username':'mikla',
+    'username':'amikla',
     'note_id':str(uuid.uuid4()),
     'content':'shopping list',
     'status':'in progress',
@@ -19,7 +19,7 @@ note1 = {
 }
 
 note2 = {
-    'username':'mikla',
+    'username':'miklka',
     'note_id':str(uuid.uuid4()),
     'content':'to do list',
     'status':'in progress',
